@@ -15,6 +15,8 @@ import {validate} from './validator'
 
 export {EnumJSONSchema, JSONSchema, NamedEnumJSONSchema, CustomTypeJSONSchema} from './types/JSONSchema'
 
+export {generate, optimize, parse, dereference, normalize}
+
 export interface Options {
   /**
    * Disclaimer comment prepended to the top of each generated file.
