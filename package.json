@@ -1,5 +1,5 @@
 {
-  "name": "json-schema-to-typescript",
+  "name": "@ggoodman/json-schema-to-typescript",
   "version": "9.1.0",
   "description": "compile json schema to typescript typings",
   "main": "dist/src/index.js",
